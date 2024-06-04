@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class javaclass {
 import java.util.*;
-
+uu jag skulle behöva ändra dehär bara
     public class Main {
         public static void main(String[] args) {
             Quiz quiz = new Quiz();
