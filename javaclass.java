@@ -10,7 +10,7 @@ import java.util.*;
             Quiz quiz = new Quiz();
             quiz.start();
         }
-    }
+    }la in i fel 2 gånger
 
     class Glossary {
         private final Map<String, String> words;
